@@ -1,0 +1,18 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code, 'Regular', monospace",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.cursorStyle": "line",
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on"
+}
